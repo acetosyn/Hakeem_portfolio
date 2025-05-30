@@ -7,12 +7,9 @@ This is the source code for my personal portfolio website, designed to showcase 
 
 ---
 
-## 📸 Demo Screenshots
+## 📸 Demo Screenshot
 
-[![Screenshot 1](assets/img/shot1.jpg)](assets/img/shot1.jpg)  
-[![Screenshot 2](assets/img/shot2.jpg)](assets/img/shot2.jpg)  
-[![Screenshot 3](assets/img/shot3.jpg)](assets/img/shot3.jpg)
-
+[![Portfolio Screenshot](assets/img/shot1.jpg)](assets/img/shot2.jpg)
 
 
 ## 🔗 Live Demo
