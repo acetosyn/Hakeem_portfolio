@@ -17,10 +17,9 @@ This is the source code for my personal portfolio website, designed to showcase 
 
 ## 🔗 Live Demo
 
-[https://portfolio-link.com](https://your-portfolio-link.com)  
-_(will be Replaced with actual link once deployed)_
+[https://portfolio-link.com](https://hakeem-portfolio-nv53.onrender.com)  
 
----
+
 
 ## 📌 Features
 
