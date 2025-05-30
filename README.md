@@ -9,9 +9,9 @@ This is the source code for my personal portfolio website, designed to showcase 
 
 ## 📸 Demo Screenshots
 
-[![Homepage](assets/img/home.JPG)](assets/img/home.JPG)  
-[![Resume Section](assets/img/resume.JPG)](assets/img/resume.JPG)  
-[![Contact Form](assets/img/contact.JPG)](assets/img/contact.JPG)
+[![Homepage](assets/img/shot1.JPG)](assets/img/shot1.JPG)  
+[![Resume Section](assets/img/shot2.JPG)](assets/img/shot2.JPG)  
+[![Contact Form](assets/img/shot3.JPG)](assets/img/shot3.JPG)
 
 
 
